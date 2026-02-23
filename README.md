@@ -13,7 +13,12 @@
   企业内部部署
 开源代码仅为学术示意原型，不构成理论授权；
 衍生项目必须在显著位置标注：  
-  > “基于韦朋辰竹节链理论（Pengchen Wei, Generative-school-bamboo-link, China）”
+
+署名标准（双版本）
+中文环境使用：
+基于中国韦朋辰竹节链理论
+英文环境使用：
+Pengchen Wei, Generative-school-bamboo-link, China
 
 详见：
 THEORY.md — 理论权属与使用边界  
