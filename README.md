@@ -1,17 +1,12 @@
 # Generative-school-bamboo-link
-韦朋辰「生成派」竹节链四理论之技术开源实现（非理论开源）｜Linear Bamboo Thinking, Anchored Memory Body, Causal Dual Method, Generative Logic Chain — Non-commercial prototype.
+韦朋辰「生成派」竹节链四理论之技术开源实现（非理论开源）｜Linear Bamboo Thinking, Anchored Memory Body, Causal Dual Method, Generative Logic Chain — Academic reference prototype.
 
 ⚠️ 重要法律声明
 
 本项目由 韦朋辰（Pengchen Wei） 于中国原创提出，仅开源四大理论的接口结构与调用流程，不包含任何实际算法、训练逻辑或推理引擎。
 
-竹节链（Bamboo Link）理论体系版权归韦朋辰独家所有；
-严禁任何商业用途，包括但不限于：
-  商业产品集成
-  付费服务或培训
-  专利申请或技术秘密化
-  企业内部部署
-开源代码仅为学术示意原型，不构成理论授权；
+竹节链（Bamboo Link）理论体系版权归韦朋辰独家所有，严禁任何未经授权的商业或非商业使用（包括但不限于：商业产品集成、付费服务或培训、专利申请、AI模型训练、企业内部部署）。
+开源代码仅为学术示意原型，不构成理论授权；本仓库中的开源代码（reference_implementation.py及示例文件）遵循Apache License 2.0，允许自由使用、修改及商业化部署，详见LICENSE。
 衍生项目必须在显著位置标注：  
 
 ---
