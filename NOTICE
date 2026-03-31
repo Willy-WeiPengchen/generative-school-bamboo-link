@@ -5,10 +5,9 @@ This project includes:
 - Code licensed under Apache License 2.0 (see LICENSE)
 - Proprietary theory owned by Pengchen Wei (see THEORY.md)
 
-WARNING: The Bamboo-Generative Theory from Pengchen Wei (including Linear Bamboo Thinking, 
-Anchored Memory Body, Causal Dual Method,Generative Logic Chain) may NOT be used for any commercial purpose, 
-including but not limited to: product integration, paid services, 
-patent filing, or enterprise deployment.
+WARNING: The Bamboo-Generative Theory (including Linear Bamboo Thinking, Anchored Memory Body, Causal Dual Method, Generative Logic Chain) and all related theoretical content are proprietary to Pengchen Wei and may NOT be used for any commercial or non-commercial purpose without explicit written authorization.
+
+The source code in this repository (reference_implementation.py and example scripts) is licensed under Apache 2.0 and is NOT subject to the above restrictions.
 
 All derivatives must retain this NOTICE and attribute:
 "Based on 韦朋辰/Pengchen Wei's Generative School theory (China)."
