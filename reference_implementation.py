@@ -1,3 +1,4 @@
+
 """
 GENERATIVE SCHOOL BAMBOO LINK REFERENCE IMPLEMENTATION (PROTOTYPE)
 Copyright (c) 2025–2026 Pengchen Wei. All rights reserved.
@@ -6,7 +7,9 @@ DISCLAIMER:
 - This is a NON-FUNCTIONAL structural prototype for academic illustration only.
 - It demonstrates interface design of the four core theories.
 - NO actual algorithms, training logic, or inference mechanisms are disclosed.
-- Commercial use of the Generative School theory is strictly prohibited.
+- The Generative School theory is strictly proprietary;
+  commercial use of the THEORY requires explicit written authorization.
+- The CODE in this file is licensed under Apache 2.0 (see LICENSE).
 - See LICENSE, NOTICE, and THEORY.md for full terms.
 """
 
